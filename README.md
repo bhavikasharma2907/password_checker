@@ -50,3 +50,25 @@ Provides suggestions for improving weak passwords
 A score is calculated based on these criteria.
 
 The password is categorized and feedback is displayed.
+
+📖 Learning Outcomes
+
+Understanding of conditional logic
+
+Use of regular expressions in Python
+
+Handling user input
+
+Basic cybersecurity practices
+
+📌 Future Improvements
+
+Add GUI using Tkinter or web interface
+
+Integrate real-time password validation
+
+Use advanced algorithms for stronger evaluation
+
+👨‍💻 Author
+
+Bhavika Sharma
